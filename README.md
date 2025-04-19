@@ -18,4 +18,8 @@ This repository contains the implementation for analyzing the Pima Indian Diabet
    - Application of the K-Means partitioning algorithm to cluster the data based on the number of clusters identified (potentially informed by the hierarchical clustering results).
    - Evaluation of the resulting clusters.
 
+**5. DBSCAN Clustering:
+   - Application of the DBSCAN algorithm to identify density-based clusters and noise points, with parameter tuning for ϵ and MinPts.
+   - Evaluation of clusters and comparison with K-Means to highlight DBSCAN’s ability to handle outliers and irregular shapes.
+
 **Further details regarding the implementation, including code, output visualizations, and explanatory comments, can be found within the project files.**
